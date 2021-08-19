@@ -19,10 +19,8 @@
     <name>employee-ds</name>
     <description>Demo project for Spring Boot</description>
     <properties>
+        <!--<java.version>11</java.version>-->
         <java.version>11</java.version>
-        <servlet.version>4.0.0</servlet.version>
-        <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
-        <spring-cloud-gcp.version>1.0.0.RELEASE</spring-cloud-gcp.version>
     </properties>
     <dependencies>
 
